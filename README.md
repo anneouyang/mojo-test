@@ -1,1 +1,3 @@
-# mojo-test
+# Mojo Test
+
+Trying out Mojo.
